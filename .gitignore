@@ -1,3 +1,6 @@
 /build
 /bin
 /Python/__pycache__
+.DS_Store
+._.DS_Store
+Thumbs.db
